@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd-number {
+    background-color: rgb(243, 115, 132);
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+#no2 {
+    color: #0000FF;
+    font-size: 36px;
+}
+.no3 {
+    font-size: 24px;
+}
+#no4 {
+    background-color: hsl(120,100%,75%);
+    font-size: 24px;
+    font-weight: bold;
+}
